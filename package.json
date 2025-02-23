@@ -1,24 +1,23 @@
 {
   "name": "google-fonts-inline",
   "version": "1.0.0",
-  "description": "Genera CSS en línea para Google Fonts",
+  "type": "module",
   "main": "lib/index.js",
   "scripts": {
-    "install": "npm install google-fonts-inline"
+    "test": "node text.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ylnaud/google-fonts-inline.git"
+    "url": "git+https://github.com/tuusuario/google-fonts-inline.git"
   },
   "keywords": [
     "google-fonts",
-    "inline-css",
-    "eleventy"
+    "inline-css"
   ],
-  "author": "<thyronemiguelvegasantana@gmail.com>",
+  "author": "duanly vega alderete",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tuusuario/google-fonts-inline/issues"
+    "url": "https://github.com/ylnaud/google-fonts-inline/issues"
   },
   "homepage": "https://github.com/ylnaud/google-fonts-inline#readme"
 }
